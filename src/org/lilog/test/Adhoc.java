@@ -1,0 +1,17 @@
+package org.lilog.test;
+
+public class Adhoc {
+
+    int number1 = 0;
+
+
+    public void setNumber1(int n) {
+        this.number1 = n;
+    }
+
+
+    public int getNumber1() {
+        return this.number1;
+    }
+
+}
