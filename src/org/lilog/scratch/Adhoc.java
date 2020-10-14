@@ -1,7 +1,7 @@
-package org.lilog.test;
+package org.lilog.scratch;
 
 public class Adhoc {
-
+    // sample class
     int number1 = 0;
 
 

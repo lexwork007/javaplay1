@@ -1,7 +1,5 @@
-package org.lilog.test;
+package org.lilog.scratch;
 //import org.lilog.test.Adhoc;
-
-import java.util.HashSet;
 
 public class RunMain {
 
